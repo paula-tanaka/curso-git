@@ -7,7 +7,6 @@ namespace ProjetoTeste {
 
             Console.WriteLine("Ola Mundo!");         
             Console.WriteLine("Como vc esta hj?");
-            Console.WriteLine("tenha uma boa tarde");
         }
     }
 }
